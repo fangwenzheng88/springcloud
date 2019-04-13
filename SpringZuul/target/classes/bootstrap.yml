@@ -9,5 +9,8 @@ spring:
     name: service-zuul
   cloud:
     config:
-      uri: http://localhost:8888
+      # uri: http://localhost:8888
+      discovery:
+        enabled: true
+        service-id: configserver  # 注册中心的服务名
       profile: dev

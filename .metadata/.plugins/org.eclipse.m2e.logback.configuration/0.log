@@ -4190,3 +4190,52 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact stax:stax-api
 2019-04-13 23:17:29,749 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2019-04-13 23:17:29,764 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-04-13 23:17:29,764 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-13 23:46:37,307 [Worker-69: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.fang:SpringWeb:0.0.1-SNAPSHOT @ E:\fangwenzheng\springcloud\SpringWeb\pom.xml.
+2019-04-13 23:46:39,201 [Worker-69: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-13 23:46:39,201 [Worker-69: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-13 23:46:39,201 [Worker-69: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-13 23:46:39,217 [Worker-69: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-13 23:46:39,217 [Worker-69: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-13 23:46:57,086 [Worker-66: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: demo.com:SpringConfig:0.0.1-SNAPSHOT @ E:\fangwenzheng\springcloud\SpringConfig\pom.xml.
+2019-04-13 23:46:57,892 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-13 23:46:57,892 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-13 23:46:57,892 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-13 23:46:57,892 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-13 23:46:57,892 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-13 23:47:09,683 [Worker-61: Launching Executing install in E__fangwenzheng_springcloud_SpringConfig] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\fangwenzheng\springcloud\SpringConfig
+2019-04-13 23:47:09,683 [Worker-61: Launching Executing install in E__fangwenzheng_springcloud_SpringConfig] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs D:\Appaclication\apache-maven-3.6.0\conf\settings.xml -s D:\Appaclication\apache-maven-3.6.0\conf\settings.xml install
+2019-04-13 23:47:27,669 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-13 23:47:27,669 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-13 23:47:27,675 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-13 23:47:27,677 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-13 23:47:27,677 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-13 23:47:54,636 [Worker-65: Launching Executing install in E__fangwenzheng_springcloud_SpringEureka] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\fangwenzheng\springcloud\SpringEureka
+2019-04-13 23:47:54,636 [Worker-65: Launching Executing install in E__fangwenzheng_springcloud_SpringEureka] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs D:\Appaclication\apache-maven-3.6.0\conf\settings.xml -s D:\Appaclication\apache-maven-3.6.0\conf\settings.xml install
+2019-04-13 23:48:00,412 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-13 23:48:00,412 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-13 23:48:00,412 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-13 23:48:00,412 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-13 23:48:00,412 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-13 23:48:17,650 [Worker-69: Launching Executing install in E__fangwenzheng_springcloud_SpringZuul] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\fangwenzheng\springcloud\SpringZuul
+2019-04-13 23:48:17,650 [Worker-69: Launching Executing install in E__fangwenzheng_springcloud_SpringZuul] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs D:\Appaclication\apache-maven-3.6.0\conf\settings.xml -s D:\Appaclication\apache-maven-3.6.0\conf\settings.xml install
+2019-04-13 23:48:23,861 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-13 23:48:23,861 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-13 23:48:23,861 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-13 23:48:23,861 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-13 23:48:23,861 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-13 23:52:33,757 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-13 23:52:33,757 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-13 23:52:33,757 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-13 23:52:33,761 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-13 23:52:33,761 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-13 23:52:56,151 [Worker-66: Launching ServiceZuulApplication] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.fang:SpringZuul:0.0.1-SNAPSHOT @ E:\fangwenzheng\springcloud\SpringZuul\pom.xml.
+2019-04-13 23:52:56,709 [Worker-66: Launching ServiceZuulApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-13 23:52:56,709 [Worker-66: Launching ServiceZuulApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-13 23:52:56,709 [Worker-66: Launching ServiceZuulApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-13 23:52:56,710 [Worker-66: Launching ServiceZuulApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-13 23:52:56,711 [Worker-66: Launching ServiceZuulApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-13 23:53:34,214 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-13 23:53:34,214 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-13 23:53:34,214 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-13 23:53:34,214 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-13 23:53:34,214 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
