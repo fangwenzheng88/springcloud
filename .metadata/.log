@@ -2580,3 +2580,84 @@ Contains: Missing stax:stax-api:jar:javadoc:1.0.1
 !MESSAGE Could not resolve artifact stax:stax-api:jar:javadoc:1.0.1
 !SUBENTRY 2 org.eclipse.m2e.core 4 -1 2019-04-13 22:29:06.969
 !MESSAGE Missing stax:stax-api:jar:javadoc:1.0.1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-13 22:48:06.526
+!MESSAGE Preparing classpath changed notification SpringZuul
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-13 22:48:06.526
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-13 22:48:06.542
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-13 22:48:06.542
+!MESSAGE executing callback sts4.classpath.tEGfHwKz SpringZuul false 22
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-13 22:48:06.605
+!MESSAGE executing callback sts4.classpath.tEGfHwKz SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-04-13 22:48:06.752
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-04-13 22:48:06.752
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-13 22:49:42.497
+!MESSAGE Preparing classpath changed notification SpringZuul
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-13 22:49:42.528
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-13 22:49:42.544
+!MESSAGE classpath=151 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-13 22:49:42.606
+!MESSAGE executing callback sts4.classpath.tEGfHwKz SpringZuul false 151
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-13 22:49:42.778
+!MESSAGE executing callback sts4.classpath.tEGfHwKz SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-13 22:49:44.237
+!MESSAGE Preparing classpath changed notification SpringZuul
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-13 22:49:44.299
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-13 22:49:44.315
+!MESSAGE classpath=151 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-13 22:49:44.330
+!MESSAGE executing callback sts4.classpath.tEGfHwKz SpringZuul false 151
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-13 22:49:44.330
+!MESSAGE executing callback sts4.classpath.tEGfHwKz SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-13 22:49:48.853
+!MESSAGE Preparing classpath changed notification SpringZuul
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-13 22:49:48.869
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-13 22:49:48.869
+!MESSAGE classpath=151 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-13 22:49:48.884
+!MESSAGE executing callback sts4.classpath.tEGfHwKz SpringZuul false 151
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-13 22:49:48.884
+!MESSAGE executing callback sts4.classpath.tEGfHwKz SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-13 22:49:57.185
+!MESSAGE Preparing classpath changed notification SpringZuul
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-13 22:49:57.200
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-13 22:49:57.200
+!MESSAGE classpath=151 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-13 22:49:57.216
+!MESSAGE executing callback sts4.classpath.tEGfHwKz SpringZuul false 151
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-13 22:49:57.232
+!MESSAGE executing callback sts4.classpath.tEGfHwKz SUCCESS [done]
