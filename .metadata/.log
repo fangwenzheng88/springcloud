@@ -2661,3 +2661,99 @@ Contains: Missing stax:stax-api:jar:javadoc:1.0.1
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-13 22:49:57.232
 !MESSAGE executing callback sts4.classpath.tEGfHwKz SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-13 23:09:57.971
+!MESSAGE Preparing classpath changed notification SpringWeb
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-13 23:09:57.988
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-13 23:09:58.003
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-13 23:09:58.008
+!MESSAGE executing callback sts4.classpath.tEGfHwKz SpringWeb false 22
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-13 23:09:58.034
+!MESSAGE executing callback sts4.classpath.tEGfHwKz SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-04-13 23:09:58.239
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-04-13 23:09:58.247
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-13 23:11:15.566
+!MESSAGE Preparing classpath changed notification SpringZuul
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-13 23:11:15.573
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-13 23:11:15.586
+!MESSAGE classpath=153 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-13 23:11:15.593
+!MESSAGE executing callback sts4.classpath.tEGfHwKz SpringZuul false 153
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-13 23:11:15.639
+!MESSAGE executing callback sts4.classpath.tEGfHwKz SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-13 23:11:17.788
+!MESSAGE Preparing classpath changed notification SpringZuul
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-13 23:11:17.795
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-13 23:11:17.810
+!MESSAGE classpath=153 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-13 23:11:17.846
+!MESSAGE executing callback sts4.classpath.tEGfHwKz SpringZuul false 153
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-13 23:11:17.873
+!MESSAGE executing callback sts4.classpath.tEGfHwKz SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-13 23:11:22.070
+!MESSAGE Preparing classpath changed notification SpringWeb
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-13 23:11:22.081
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-13 23:11:22.101
+!MESSAGE classpath=135 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-13 23:11:22.115
+!MESSAGE executing callback sts4.classpath.tEGfHwKz SpringWeb false 135
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-13 23:11:22.133
+!MESSAGE executing callback sts4.classpath.tEGfHwKz SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-13 23:11:24.141
+!MESSAGE Preparing classpath changed notification SpringWeb
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-13 23:11:24.154
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-13 23:11:24.166
+!MESSAGE classpath=135 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-13 23:11:24.172
+!MESSAGE executing callback sts4.classpath.tEGfHwKz SpringWeb false 135
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-13 23:11:24.184
+!MESSAGE executing callback sts4.classpath.tEGfHwKz SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-13 23:11:41.352
+!MESSAGE Preparing classpath changed notification SpringWeb
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-13 23:11:41.352
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-13 23:11:41.367
+!MESSAGE classpath=135 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-13 23:11:41.367
+!MESSAGE executing callback sts4.classpath.tEGfHwKz SpringWeb false 135
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-04-13 23:11:41.383
+!MESSAGE executing callback sts4.classpath.tEGfHwKz SUCCESS [done]
