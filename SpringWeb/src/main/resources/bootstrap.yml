@@ -14,3 +14,8 @@ spring:
         enabled: true
         service-id: configserver  # 注册中心的服务名
       profile: dev
+management:
+  endpoints: 
+      web: 
+        exposure:
+          include: health, info, refresh
