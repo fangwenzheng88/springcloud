@@ -1,0 +1,21 @@
+# 端口
+server:
+  port: 8013
+
+spring:
+  application:
+    # 应用名称
+    name: springboot-redis-cache
+  #Lettuce版本Redis配置
+  # redis 配置
+  redis:
+    host: 127.0.0.1
+    prot: 6379
+    # 超时连接
+    timeout: 1000ms
+    jedis: 
+      pool: 
+        max-active: 8
+        max-idle: 8
+        max-wait: -1ms
+        min-idle: 0
