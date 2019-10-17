@@ -9,14 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @EnableCaching            // 开启Cache 缓存注解
 @SpringBootApplication
-@RestController
 public class CacheApplication {
-
-    @RequestMapping(value="/hello",method= RequestMethod.GET)
-    public String sayHello(){
-        return "hello";
-    }
-
     public static void main(String[] args) {
         SpringApplication.run(CacheApplication.class,args) ;
     }
